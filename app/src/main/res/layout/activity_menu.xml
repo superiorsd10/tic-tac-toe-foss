@@ -42,6 +42,7 @@
        android:layout_width="75dp"
        android:layout_height="75dp"
        android:layout_gravity="center"
+       android:contentDescription="@string/github_button"
        android:layout_marginTop="20dp"
        android:scaleType="fitCenter"
        android:background="@null"
